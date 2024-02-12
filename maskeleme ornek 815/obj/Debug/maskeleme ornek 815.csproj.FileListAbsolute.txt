@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\maskeleme ornek 815\maskeleme ornek 815\bin\Debug\maskeleme ornek 815.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\maskeleme ornek 815\maskeleme ornek 815\bin\Debug\maskeleme ornek 815.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\maskeleme ornek 815\maskeleme ornek 815\bin\Debug\maskeleme ornek 815.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\maskeleme ornek 815\maskeleme ornek 815\obj\Debug\maskeleme ornek 815.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\maskeleme ornek 815\maskeleme ornek 815\obj\Debug\maskeleme ornek 815.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\maskeleme ornek 815\maskeleme ornek 815\obj\Debug\maskeleme_ornek_815.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\maskeleme ornek 815\maskeleme ornek 815\obj\Debug\maskeleme_ornek_815.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\maskeleme ornek 815\maskeleme ornek 815\obj\Debug\maskeleme ornek 815.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\maskeleme ornek 815\maskeleme ornek 815\obj\Debug\maskeleme ornek 815.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\maskeleme ornek 815\maskeleme ornek 815\obj\Debug\maskeleme ornek 815.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\maskeleme ornek 815\maskeleme ornek 815\obj\Debug\maskeleme ornek 815.pdb
